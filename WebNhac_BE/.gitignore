@@ -1,0 +1,5 @@
+node_modules
+scaler.pkl
+random_forest_model.pkl
+label_encoder.pkl
+.env
